@@ -13,19 +13,19 @@ GraFlux es un script de instalación automatizada para configurar un entorno de 
 1. Descarga el script de instalación:
 
    ```bash
-   wget https://raw.githubusercontent.com/xodaaaa/GraFlux/main/install.sh
+   wget https://raw.githubusercontent.com/xodaaaa/GraFlux/main/GraFlux.sh
    ```
 
 2. Dale permisos de ejecución al script:
 
    ```bash
-   chmod +x install.sh
+   chmod +x GraFlux.sh
    ```
 
 3. Ejecuta el script:
 
    ```bash
-   ./install.sh
+   ./GraFlux.sh
    ```
 
 ## Funcionalidades
@@ -47,7 +47,7 @@ El script realiza las siguientes acciones:
 GraFlux/
 ├── docker-compose.yml
 ├── .env
-└── install.sh
+└── GraFlux.sh
 ```
 
 ## Uso
